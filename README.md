@@ -1,5 +1,4 @@
 # Image Classification using TensorFlow and Keras
-## Concept
 Build and train a Neural Network model to classify items of clothing. 
 Built by following the tutorial on the TensorFlow website for Keras Basic Classification. 
 
