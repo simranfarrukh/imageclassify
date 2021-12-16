@@ -7,7 +7,7 @@
 import tensorflow as tf
 
 # other libraries
-import numpy as np
+import numpy as np  # working with arrays
 import matplotlib.pyplot as plt
 
 print(tf.__version__)  # for verification
